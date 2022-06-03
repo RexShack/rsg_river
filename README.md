@@ -1,8 +1,8 @@
 # RexshackGaming
-- RexshackGaming Discord : https://discord.gg/s5uSk56B65
-- BoomTown RP (RedM) Discord : http://discord.gg/kNkhtz9fZQ
+- discord : https://discord.gg/s5uSk56B65
 - youtube : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
-- webstore : https://rexshackgaming.tebex.io
+- github : https://github.com/RexShack
+- support-me : https://rexshackgaming.tebex.io/package/5114907
 
 # Framework QBCore RedM Edition
 - https://github.com/qbcore-redm-framework
